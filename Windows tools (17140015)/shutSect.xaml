@@ -1,0 +1,45 @@
+﻿<Page x:Class="Windows_tools__17140015_.shutSect"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Windows_tools__17140015_"
+      mc:Ignorable="d" 
+      d:DesignHeight="415" d:DesignWidth="500"
+      Title="shutSect">
+
+    <Grid Margin="0,0,10,10" Background="#FF1F1736">
+        <TextBlock HorizontalAlignment="Left" Margin="93,111,0,0" TextWrapping="Wrap" Text="Shutdown Timer" VerticalAlignment="Top" FontFamily="Code Light" FontSize="36" Foreground="White" Width="302" TextAlignment="Center"/>
+        <TextBox x:Name="hh" HorizontalAlignment="Left" Height="49" Margin="114,153,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="76" FontFamily="Code Light" FontSize="48" TextAlignment="Center" IsEnabled="False"/>
+        <TextBox x:Name="mm" HorizontalAlignment="Left" Height="49" Margin="205,153,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="76" FontFamily="Code Light" FontSize="48" TextAlignment="Center" IsEnabled="False"/>
+        <TextBox x:Name="ss" HorizontalAlignment="Left" Height="49" Margin="296,153,0,0" TextWrapping="Wrap" Text="00" VerticalAlignment="Top" Width="76" FontFamily="Code Light" FontSize="48" TextAlignment="Center" IsEnabled="False"/>
+        <TextBlock HorizontalAlignment="Left" Margin="142,206,0,0" TextWrapping="Wrap" Text="Jam" VerticalAlignment="Top" Foreground="White" FontFamily="Code Light"/>
+        <TextBlock HorizontalAlignment="Left" Margin="228,217,0,0" TextWrapping="Wrap" Text="Menit" VerticalAlignment="Top" Foreground="White" FontFamily="Code Light"/>
+        <TextBlock HorizontalAlignment="Left" Margin="320,206,0,0" TextWrapping="Wrap" Text="Detik" VerticalAlignment="Top" Foreground="White" FontFamily="Code Light"/>
+        <Button x:Name="ok" Content="OK" HorizontalAlignment="Left" Margin="161,313,0,0" VerticalAlignment="Top" Width="74" Click="ok_Click" FontFamily="Code Bold"/>
+        <Button x:Name="Xtimer" Content="Stop time" HorizontalAlignment="Left" Margin="251,313,0,0" VerticalAlignment="Top" Width="75" FontFamily="Code Bold" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="142,40,0,0" TextWrapping="Wrap" Text="Chose what you want" VerticalAlignment="Top" Foreground="White" FontFamily="Code Light" FontSize="20"/>
+
+        <ComboBox Name="options" HorizontalAlignment="Left" VerticalAlignment="Top" Width="215" Margin="142,76,0,0" Height="22" FontFamily="Code Bold" SelectionChanged="options_SelectionChanged" FontSize="14">
+            <ComboBoxItem Content="Shut down"  HorizontalAlignment="Left" Width="215"  BorderBrush="#FF111111" Selected="Shutdown_Selected"/>
+            <ComboBoxItem Content="Fast Shutdown"  HorizontalAlignment="Left" Width="215"  BorderBrush="#FF111111" Selected="Shutdownf_Selected"/>
+            <ComboBoxItem Content="Shutdown Timer"  HorizontalAlignment="Left" Width="215"  BorderBrush="#FF111111" Selected="Shutdownt_Selected"/>
+            <ComboBoxItem Content="Restart" HorizontalAlignment="Left" Width="215"  BorderBrush="#FF131212" Selected="restart_Selected"/>
+            <ComboBoxItem Content="Sleep" HorizontalAlignment="Left" Width="215"  BorderBrush="#FF060606" Selected="sleep_Selected"/>
+            <ComboBoxItem Content="Sign Out" HorizontalAlignment="Left" Width="215"  BorderBrush="#FF0F0F0F" Selected="signout_Selected"/>
+            <ComboBoxItem Content="Hibernate" HorizontalAlignment="Left" Width="215"  BorderBrush="#FF0F0F0F" Selected="hibernate_Selected"/>
+            <ComboBoxItem Content="Lock" HorizontalAlignment="Left" Width="215" BorderBrush="#FF0F0F0F" Selected="lock_Selected"/>
+
+        </ComboBox>
+        <Label x:Name="info" Content="Pilih dahulu di atas .&#xD;&#xA;&#xD;&#xA;&quot;Waktu bisa di akses hanya bila memilih timer shutdown&quot;" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Margin="17,223,0,0" Height="74" Width="454" Foreground="White">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.457"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+    </Grid>
+</Page>

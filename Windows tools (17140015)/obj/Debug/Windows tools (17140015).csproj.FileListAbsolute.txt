@@ -1,0 +1,27 @@
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\bin\Debug\Windows tools (17140015).exe.config
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\bin\Debug\Windows tools (17140015).exe
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\bin\Debug\Windows tools (17140015).pdb
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows tools (17140015).csprojResolveAssemblyReference.cache
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\obj\Debug\MainWindow.g.cs
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\obj\Debug\App.g.cs
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows tools (17140015)_MarkupCompile.cache
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\obj\Debug\MainWindow.baml
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows tools (17140015).g.resources
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows_tools__17140015_.Properties.Resources.resources
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows tools (17140015).csproj.GenerateResource.Cache
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows tools (17140015).exe
+c:\users\elco\documents\visual studio 2017\Projects\Windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows tools (17140015).pdb
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows tools (17140015)_MarkupCompile.lref
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\ipSect.g.cs
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\ipSect.baml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\cusSect.g.cs
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\cusSect.baml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\medSect.g.cs
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\shutSect.g.cs
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\medSect.baml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\shutSect.baml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\bin\Debug\Windows tools (17140015).exe.manifest
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\bin\Debug\Windows tools (17140015).application
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows tools (17140015).TrustInfo.xml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows tools (17140015).exe.manifest
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Debug\Windows tools (17140015).application

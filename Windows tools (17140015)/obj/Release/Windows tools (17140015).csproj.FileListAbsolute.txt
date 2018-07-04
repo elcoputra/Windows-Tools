@@ -1,0 +1,27 @@
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\bin\Release\Windows tools (17140015).exe.config
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\bin\Release\Windows tools (17140015).exe
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\bin\Release\Windows tools (17140015).pdb
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows tools (17140015).csprojResolveAssemblyReference.cache
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\MainWindow.baml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\ipSect.g.cs
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\MainWindow.g.cs
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\App.g.cs
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows tools (17140015)_MarkupCompile.cache
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows tools (17140015)_MarkupCompile.lref
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\ipSect.baml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows tools (17140015).g.resources
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows_tools__17140015_.Properties.Resources.resources
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows tools (17140015).csproj.GenerateResource.Cache
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows tools (17140015).exe
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows tools (17140015).pdb
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\cusSect.g.cs
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\medSect.g.cs
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\shutSect.g.cs
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\cusSect.baml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\medSect.baml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\shutSect.baml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\bin\Release\Windows tools (17140015).exe.manifest
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\bin\Release\Windows tools (17140015).application
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows tools (17140015).TrustInfo.xml
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows tools (17140015).exe.manifest
+C:\Users\Elco\documents\visual studio 2017\Projects\windows tools (17140015)\Windows tools (17140015)\obj\Release\Windows tools (17140015).application

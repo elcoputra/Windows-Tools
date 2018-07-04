@@ -1,0 +1,146 @@
+﻿<Window x:Class="Windows_tools__17140015_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Welcome" Height="480" Width="680" ResizeMode="CanMinimize" Icon="IMG_20161216_024207.jpg">
+    <Grid ScrollViewer.VerticalScrollBarVisibility="Disabled">
+        <Grid.Background>
+            <SolidColorBrush Color="#FF1F1736"/>
+        </Grid.Background>
+        <Rectangle Fill="#FF3C2249" HorizontalAlignment="Left"  Height="449" VerticalAlignment="Top" Width="167"/>
+        <TextBlock x:Name="elco" HorizontalAlignment="Left" Margin="231,175,0,0" TextWrapping="Wrap" Text="ELCO iriansyah putra" VerticalAlignment="Top" Height="61" Width="403" Foreground="White" FontFamily="806 Typography" FontSize="28"/>
+        <TextBlock HorizontalAlignment="Left" Margin="227,208,0,0" TextWrapping="Wrap" Text="17140015" VerticalAlignment="Top" Height="61" Width="403" Foreground="White" FontFamily="806 Typography" FontSize="24"/>
+        <TextBlock HorizontalAlignment="Left" Margin="588,176,0,0" TextWrapping="Wrap" Text="Life" VerticalAlignment="Top" Height="22" Width="41" Foreground="White" FontFamily="Code Light" FontSize="20" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.584"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="355,106,0,0" TextWrapping="Wrap" Text="Network" VerticalAlignment="Top" Height="61" Width="302" Foreground="White" FontFamily="Code Light" FontSize="72"/>
+        <TextBlock HorizontalAlignment="Left" Margin="137,187,0,0" TextWrapping="Wrap" Text="UTS" VerticalAlignment="Top" Height="61" Width="133" Foreground="White" FontFamily="Code Light" FontSize="72" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-89.486"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="227,233,0,0" TextWrapping="Wrap" Text="great" VerticalAlignment="Top" Height="61" Width="197" Foreground="White" FontFamily="Code Light" FontSize="72"/>
+        <TextBlock HorizontalAlignment="Left" Margin="355,215,0,0" TextWrapping="Wrap" Text="background" VerticalAlignment="Top" Height="25" Width="144" Foreground="White" FontFamily="Code Light" FontSize="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="404,255,0,0" TextWrapping="Wrap" Text="Shutdown" VerticalAlignment="Top" Height="25" Width="65" Foreground="White" FontFamily="Code Light" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-89.833"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="170,294,0,0" TextWrapping="Wrap" Text="restart" VerticalAlignment="Top" Height="25" Width="144" Foreground="White" FontFamily="Code Light" FontSize="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="440,237,0,0" TextWrapping="Wrap" Text="hard" VerticalAlignment="Top" Height="25" Width="59" Foreground="White" FontFamily="Code Light" FontSize="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="440,256,-68,0" TextWrapping="Wrap" Text="address" VerticalAlignment="Top" Height="61" Width="302" Foreground="White" FontFamily="Code Light" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="468,226,0,0" TextWrapping="Wrap" Text="DNS" VerticalAlignment="Top" Height="38" Width="76" Foreground="White" FontFamily="Code Light" FontSize="30" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.544"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="526,233,0,0" TextWrapping="Wrap" Text="wpf" VerticalAlignment="Top" Height="25" Width="144" Foreground="White" FontFamily="Code Light" FontSize="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="523,212,0,0" TextWrapping="Wrap" Text="gateway" VerticalAlignment="Top" Height="25" Width="144" Foreground="White" FontFamily="Code Light" FontSize="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="287,152,0,0" TextWrapping="Wrap" Text="sleep" VerticalAlignment="Top" Height="25" Width="63" Foreground="White" FontFamily="Code Light" FontSize="23"/>
+        <TextBlock HorizontalAlignment="Left" Margin="166,90,0,0" TextWrapping="Wrap" Text="c#" VerticalAlignment="Top" Height="97" Width="148" Foreground="White" FontFamily="Code Light" FontSize="100"/>
+        <TextBlock HorizontalAlignment="Left" Margin="242,24,0,0" TextWrapping="Wrap" Text="Dhcp" VerticalAlignment="Top" Height="61" Width="179" Foreground="White" FontFamily="Code Light" FontSize="48" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.167"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="623,213,-34,0" TextWrapping="Wrap" Text="music" VerticalAlignment="Top" Height="32" Width="85" Foreground="White" FontFamily="Code Light" RenderTransformOrigin="0.5,0.5" FontSize="36">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.967"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="575,241,0,0" TextWrapping="Wrap" Text="public" VerticalAlignment="Top" Height="25" Width="89" Foreground="White" FontFamily="Code Light" FontSize="18" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.588"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="578,232,0,0" TextWrapping="Wrap" Text="design" VerticalAlignment="Top" Height="12" Width="36" Foreground="White" FontFamily="Code Light" FontSize="10"/>
+        <TextBlock HorizontalAlignment="Left" Margin="589,186,0,0" TextWrapping="Wrap" Text="video" VerticalAlignment="Top" Height="27" Width="78" Foreground="White" FontFamily="Code Light" FontSize="14" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90.808"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="185,329,0,0" TextWrapping="Wrap" Text="multimedia" VerticalAlignment="Top" Height="25" Width="144" Foreground="White" FontFamily="Code Light" FontSize="23" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-88.949"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="368,299,-17,0" TextWrapping="Wrap" Text="programmer" VerticalAlignment="Top" Height="57" Width="323" Foreground="White" FontFamily="Code Light" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="526,371,-175,0" TextWrapping="Wrap" Text="enjoy" VerticalAlignment="Top" Height="57" Width="323" Foreground="White" FontFamily="Code Light" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="597,407,-246,-13" TextWrapping="Wrap" Text="ok" VerticalAlignment="Top" Height="57" Width="323" Foreground="White" FontFamily="Code Light" FontSize="43"/>
+        <TextBlock HorizontalAlignment="Left" Margin="488,333,-137,0" TextWrapping="Wrap" Text="belajar" VerticalAlignment="Top" Height="57" Width="323" Foreground="White" FontFamily="Code Light" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Margin="524,83,-60,0" TextWrapping="Wrap" Text="program" VerticalAlignment="Top" Height="52" Width="210" Foreground="White" FontFamily="Code Light" FontSize="24" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.901"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <Button x:Name="btIP" Content="  IP" HorizontalAlignment="Left" Margin="0,135,0,0" VerticalAlignment="Top" Width="167" Height="58" Background="#00000000" BorderBrush="{x:Null}" Foreground="White" FontFamily="Code Light" FontSize="22" Click="btIP_Click" HorizontalContentAlignment="Left"/>
+        <Button x:Name="btCus" Content="  customization&#xA;  Desktop" HorizontalAlignment="Left" Margin="0,212,0,0" VerticalAlignment="Top" Width="167" Height="58" Background="#00000000" BorderBrush="{x:Null}" Foreground="White" FontFamily="Code Light" FontSize="18" Click="btCus_Click" HorizontalContentAlignment="Left"/>
+        <Button x:Name="btMed" Content="  Media" HorizontalAlignment="Left" Margin="0,291,0,0" VerticalAlignment="Top" Width="167" Height="58" Background="#00000000" BorderBrush="{x:Null}" Foreground="White" FontFamily="Code Light" FontSize="22" Click="btMed_Click" HorizontalContentAlignment="Left"/>
+        <Button x:Name="btShut" Content="  Shutdown" HorizontalAlignment="Left" Margin="0,371,0,0" VerticalAlignment="Top" Width="167" Height="58" Background="#00000000" BorderBrush="{x:Null}" Foreground="White" FontFamily="Code Light" FontSize="22" Click="btShut_Click" HorizontalContentAlignment="Left"/>
+        <Label x:Name="label" Content="Windows &#xA;   Tools" HorizontalAlignment="Left" VerticalAlignment="Top" Height="66" Width="150" FontFamily="806 Typography" FontSize="24" Foreground="White" Margin="7,20,0,0"/>
+        <Rectangle Fill="#FFFD7A1F" HorizontalAlignment="Left" Height="58" Margin="0,135,0,0" VerticalAlignment="Top" Width="7"/>
+        <Rectangle Fill="#FFF8CF63" HorizontalAlignment="Left" Height="58" Margin="0,212,0,0" VerticalAlignment="Top" Width="7"/>
+        <Rectangle Fill="#FF2AD2BB" HorizontalAlignment="Left" Height="58" Margin="0,291,0,0" VerticalAlignment="Top" Width="7"/>
+        <Rectangle Fill="#FFDC044D" HorizontalAlignment="Left" Height="58" Margin="0,371,0,0" VerticalAlignment="Top" Width="7"/>
+        <StackPanel x:Name="pan1" HorizontalAlignment="Left" Height="449" Margin="167,0,0,0" VerticalAlignment="Top" Width="5"/>
+        <StackPanel x:Name="pan2" HorizontalAlignment="Left" Height="34" Margin="167,0,0,0" VerticalAlignment="Top" Width="505"/>
+        <TextBlock x:Name="txt1" HorizontalAlignment="Left" Margin="167,7,-5,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="510" Height="27" TextAlignment="Center" FontSize="18" Foreground="Black" FontFamily="Code Light" FontWeight="Bold"/>
+        <Frame x:Name="frame1" Content="" HorizontalAlignment="Left" Height="415" Margin="172,34,0,0" VerticalAlignment="Top" Width="500" NavigationUIVisibility="Hidden" Navigated="frame1_Navigated"/>
+
+    </Grid>
+
+</Window>
